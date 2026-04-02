@@ -95,19 +95,19 @@
         <g class="group">
             <text text-anchor="start" x="160" y="95" class="sub_title" style="fill:#ffffff;">Score</text>
 
-            <text text-anchor="start" x="250" y="95" class="value" style="fill:#ffffff;">1,340</text>
+            <text text-anchor="start" x="250" y="95" class="value" style="fill:#ffffff;">1,348</text>
         </g>
 
         <g class="group">
             <text text-anchor="start" x="160" y="115" class="sub_title" style="fill:#ffffff;">Solved</text>
 
-            <text text-anchor="start" x="250" y="115" class="value" style="fill:#ffffff;">150</text>
+            <text text-anchor="start" x="250" y="115" class="value" style="fill:#ffffff;">151</text>
         </g>
 
         <g class="group">
             <text text-anchor="start" x="160" y="135" class="sub_title" style="fill:#ffffff;">Rank</text>
 
-            <text text-anchor="start" x="250" y="135" class="value" style="fill:#ffffff;">50,806</text>
+            <text text-anchor="start" x="250" y="135" class="value" style="fill:#ffffff;">48,783</text>
         </g>
 
         </svg>
